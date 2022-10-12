@@ -1,0 +1,12 @@
+@import "~admin-lte/plugins/fontawesome-free/css/all.css";
+@import "~admin-lte/dist/css/adminlte.css";
+
+.ellipsis{
+    text-overflow: ellipsis; /* ce qui va ajouter les 3 point de suspention*/
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+::-webkit-scrollbar{
+    display: none;
+}
