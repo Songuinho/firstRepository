@@ -5,7 +5,7 @@
             <a href="" class="nav-link ">
                 <i class="nav-icon fas fa-home"></i>
                 <p>
-                    Accueil
+                    Accueil mofifie
                 </p>
             </a>
         </li>
