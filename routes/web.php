@@ -23,5 +23,6 @@ use App\Http\Controllers\postController;
  
 Auth::routes();
 
-Route::get('/', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+Route::get('/', [App\Http\Controllers\HomeController::class, 'index'])->name('home'); # j'essaie de faire un truc sur git 
+
 
